@@ -1,6 +1,6 @@
 {
   "name": "google-drive-torrent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Downloads torrent files to google drive",
   "main": "server.js",
   "scripts": {
